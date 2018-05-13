@@ -90,4 +90,10 @@
   top: 60px;
 }
 
+@media only screen and (max-width: 7495px) {
+  #logo h2 {
+    visibility: hidden;
+  }
+}
+
 }
