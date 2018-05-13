@@ -32,11 +32,11 @@
   #social {
     top: 72px;
         }
-
+      
   .col-3 p{
-      column-count: 3;
-      -moz-column-count: 3;
-      -webkit-column-count: 3;
+      column-count: 2;
+      -moz-column-count: 2;
+      -webkit-column-count: 2;    
   }
 }
 
